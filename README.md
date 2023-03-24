@@ -95,6 +95,7 @@ import simpletk as stk
 root = tk.Tk()
 stk.window(root, 'Hello World')
 stk.lbl(root, 'Simple label!')
+stk.btn(root, 'Simple button!', command=lambda: print('This is work!'))
 stk.loop(root)
 ```
 I think the difference is visible
