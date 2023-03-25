@@ -89,6 +89,7 @@ root.mainloop()
 
 >With SimpleTK:
 ```python
+# v0.1.0-alpha
 import tkinter as tk
 import simpletk as stk
 
