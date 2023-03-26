@@ -128,4 +128,4 @@ stk.loop(root)
 ```
 
 ___
-[Beta release is available!](https://github.com/gigacode7/simpletk/releases)
+[Beta release is available for download!](https://github.com/gigacode7/simpletk/releases)
