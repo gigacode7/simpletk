@@ -2,7 +2,7 @@
 
 The alias `stk` is recommended for use.
 
-Lastet version: `1.0-beta.0`
+Lastet version: `1.1-beta.1`
 
 **Feedback:**
 
@@ -60,6 +60,26 @@ stk.ent(root)
 ```python
 stk.loop(root)
 ```
+___
+## MessageBoxes
+
+> Info messagebox
+```python
+stk.info('Info', 'Info text')
+```
+
+> Warning messagebox
+```python
+stk.warn('Warning', 'Warning text')
+```
+
+> Error messagebox
+```python
+stk.err('Error', 'Error text')
+```
+In messageboxes `root` is not mandatory parameter.
+___
+
 > How to get data from entry?
 
 1. Create a new entry
