@@ -12,13 +12,7 @@ The first thing you should do is import the libraries, it is recommended to assi
 import tkinter as tk
 import simpletk as stk
 ```
-Next, you need to set the desired variable.
-```python
-import tkinter as tk
-import simpletk as stk
 
-root = tk.Tk()
-```
 Now let's talk about how to write code using the module. 
 
 In alpha version 0.1.0 only 4 functions are available, they are specified in the [release description](https://github.com/gigacode7/simpletk/releases)
