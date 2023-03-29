@@ -2,10 +2,9 @@
 #### This module will help in writing Tkinter programs. It is currently under development, but a limited alpha pre-release is now available. The prerelease corrections will be released. New features will be added, but published less frequently.
 ___
 ### How to install SimpleTk
-> 1. Download last [release](https://github.com/gigacode7/simpletk/releases)
-> 2. Find `\Python311\` folder. (Or Python310/309, depending on your python version)
-> 3. Move the downloaded file to the `Lib` folder.
->> In the future, the module will be uploaded to PyPi, respectively, installation using pip will be possible.
+```
+pip install simpletk
+```
 ___
 ### Examples of code using SimpleTk
 The first thing you should do is import the libraries, it is recommended to assign an alias.
