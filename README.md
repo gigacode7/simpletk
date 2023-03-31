@@ -2,7 +2,7 @@
 
 ![github release](https://img.shields.io/github/v/release/gigacode7/simpletk "github") ![pypi version](https://img.shields.io/pypi/v/simpletk "pypi") 
 
-#### This module will help in writing Tkinter programs. It is currently under development, but a limited alpha pre-release is now available. The prerelease corrections will be released. New features will be added, but published less frequently.
+#### This module will help in writing Tkinter programs.
 ___
 ### How to install SimpleTk
 ```
