@@ -1,6 +1,6 @@
 # SimpleTk by Giga Code
 
-![github release](https://img.shields.io/github/v/release/gigacode7/simpletk "github") ![pypi version](https://img.shields.io/pypi/v/simpletk "pypi") 
+[![github release](https://img.shields.io/github/v/release/gigacode7/simpletk)](https://github.com/gigacode7/simpletk "github") [![pypi version](https://img.shields.io/pypi/v/simpletk)](https://pypi.org/project/simpletk "pypi") 
 
 #### This module will help in writing Tkinter programs.
 ___
